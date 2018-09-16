@@ -1,2 +1,2 @@
-# Rendszerfejleszt-s-I
+# Rendszerfejlesztes-I
 School project boi
